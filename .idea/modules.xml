@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jqxGrid.iml" filepath="$PROJECT_DIR$/jqxGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jqxGrid-grailsPlugins.iml" filepath="$PROJECT_DIR$/jqxGrid-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
